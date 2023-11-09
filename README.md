@@ -6,6 +6,10 @@
 - Tools **Docker Compose, Nginx, Gunicorn, Postman, CI/CD, Git**
 - Database **PostgreSQL, SQLite, Redis**.
 - Solving Data structure and algorithm questions in **Python**.
+
+### ⌚️ Timezone
+- Now I'm in Almaty, Kazakhstan, my time zone is **GMT+6**.
+  
 <br>
 <div id="footer" align="left">
 <a href="https://www.linkedin.com/in/dan-petrov/">
