@@ -2,7 +2,7 @@
 ### ⚡ Technologies
 
 - Front-end development **HTML, CSS, Bootstrap**.
-- Backend development **Django, DRF, JWT, Unit Testing, REST API, Telegram API**.
+- Backend development **FastAPI, Django, DRF, JWT, Unit Testing, REST API, Telegram API**.
 - Tools **Docker Compose, Nginx, Gunicorn, Postman, CI/CD, Git**
 - Database **PostgreSQL, SQLite, Redis**.
 - Solving Data structure and algorithm questions in **Python**.
