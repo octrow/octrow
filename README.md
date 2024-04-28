@@ -1,14 +1,14 @@
 ## Hi, I'm Daniel, a Python Developer 🚀 
 ### ⚡ Technologies
 
-- Front-end development **HTML, CSS, Bootstrap**.
-- Backend development **FastAPI, Django, DRF, JWT, Unit Testing, REST API, Telegram API**.
+- Backend development **FastAPI, Django, DRF, Celery, JWT, Postman, REST API, Pandas, Pandera**.
 - Tools **Docker Compose, Nginx, Gunicorn, Postman, CI/CD, Git**
-- Database **PostgreSQL, SQLite, Redis**.
+- Database **PostgreSQL, MongoDB, Redis**.
+- A bit **HTML, CSS, Bootstrap**.
 - Solving Data structure and algorithm questions in **Python**.
 
 ### ⌚️ Timezone
-- Now I'm in Almaty, Kazakhstan, my time zone is **GMT+6**.
+- Now I'm in Almaty, Kazakhstan, my time zone is **GMT+5**.
   
 <br>
 <div id="footer" align="left">
