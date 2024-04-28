@@ -4,8 +4,7 @@
 - Backend development **FastAPI, Django, DRF, Celery, JWT, Postman, REST API, Pandas, Pandera**.
 - Tools **Docker Compose, Nginx, Gunicorn, Postman, CI/CD, Git**
 - Database **PostgreSQL, MongoDB, Redis**.
-- A bit **HTML, CSS, Bootstrap**.
-- Solving Data structure and algorithm questions in **Python**.
+- A bit **HTML, CSS, Bootstrap, Figma, Illustrator**.
 
 ### ⌚️ Timezone
 - Now I'm in Almaty, Kazakhstan, my time zone is **GMT+5**.
