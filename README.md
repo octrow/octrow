@@ -1,14 +1,12 @@
 ## Hi, I'm Daniel, a Python Developer 🚀 
-### ⚡ Technologies
+### ⚡ Core expertise
 
-- Backend development **FastAPI, Django, DRF, Celery, JWT, Postman, REST API, Pandas, Pandera**.
-- Tools **Docker Compose, Nginx, Gunicorn, Postman, CI/CD, Git**
-- Database **PostgreSQL, MongoDB, Redis**.
-- A bit **HTML, CSS, Bootstrap, Figma, Illustrator**.
+- **Architected zero-downtime migration** from PHP to Python microservices (50,000+ daily calls)
+- **Event-driven systems:** RabbitMQ, Redis Streams, FastStream
+- **Python stack:** FastAPI, SQLAlchemy, Celery/TaskIQ, Pandera, DRF
+- **Infrastructure:** Docker, PostgreSQL, MinIO, Grafana
+- **AI/LLM integration** for intelligent call systems
 
-### ⌚️ Timezone
-- Now I'm in Almaty, Kazakhstan, my time zone is **GMT+5**.
-  
 <br>
 <div id="footer" align="left">
 <a href="https://www.linkedin.com/in/dan-petrov/">
