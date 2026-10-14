@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Daniel Peterson: Python backend developer building voice-AI telephony for collections in banking, 4M+ calls a month">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Daniel Peterson, Python backend: voice-AI collections calls for banks in KZ, UZ and KG, 4M+ calls a month. Measured: TTS batch 427 s to 5 s; dispatcher dialed about 3 of 50 calls per minute before a rebuild; one 918 MB Redis stream cut to thin queue records">
 </p>
 
 **Senior backend developer at CyberNet AI, Almaty.**
 
-Top contributor in all 8 services of the FastAPI backend, 560+ merged PRs since 2024.<br>
-Clients: banks in Kazakhstan, Uzbekistan and Kyrgyzstan, and government hotlines.
-
-<p align="center">
-  <img src="./assets/readme/measured.svg" width="100%" alt="Measured: TTS batch 427 s to 5 s; dispatcher dialed about 3 of 50 configured calls per minute before the fix, rebuilt as one worker per campaign; a 918 MB campaign stream in Redis replaced by thin queue records">
-</p>
+Top contributor in all 8 services of the FastAPI backend, 560+ merged PRs since 2024.
 
 ### What I build
 
