@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Daniel Peterson, Python backend: voice-AI collections calls for banks in KZ, UZ and KG, 4M+ calls a month. Measured: TTS batch 427 s to 5 s; dispatcher dialed about 3 of 50 calls per minute before a rebuild; one 918 MB Redis stream cut to thin queue records">
+  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="Daniel Peterson, Python backend: voice-AI collections calls for banks in KZ, UZ, KG, US and MX, 4M+ calls a month. Measured: TTS batch 427 s to 5 s; dispatcher dialed about 3 of 50 calls per minute before a rebuild; one 918 MB Redis stream cut to thin queue records">
 </p>
 
 **Senior backend developer at CyberNet AI, Almaty.**
