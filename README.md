@@ -1,25 +1,26 @@
-## Hi, I'm Daniel, a Python Developer 🚀 
-### ⚡ Core expertise
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Daniel Peterson: Python backend developer building voice-AI telephony for collections in banking, 4M+ calls a month">
+</p>
 
-- **Architected zero-downtime migration** from PHP to Python microservices (50,000+ daily calls)
-- **Event-driven systems:** RabbitMQ, Redis Streams, FastStream
-- **Python stack:** FastAPI, SQLAlchemy, Celery/TaskIQ, Pandera, DRF
-- **Infrastructure:** Docker, PostgreSQL, MinIO, Grafana
-- **AI/LLM integration** for intelligent call systems
+Senior backend developer at **CyberNet AI** (Almaty). Our voice-AI platform runs outbound collections calls for banks
+in Kazakhstan, Uzbekistan and Kyrgyzstan and for government hotlines. I'm the top contributor in all 8 services
+of its FastAPI backend, with 560+ merged PRs since 2024.
 
-<br>
-<div id="footer" align="left">
-<a href="https://www.linkedin.com/in/dan-petrov/">
-<img src="https://img.shields.io/badge/-dan_petrov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dan-petrov/">
-</a>
-<a href="https://t.me/trauor">
-<img src="https://img.shields.io/badge/trauor-telegram?style=flat-square&logo=Telegram&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2Ftrauor">
-</div>
+<p align="center">
+  <img src="./assets/readme/measured.svg" width="100%" alt="Measured: TTS batch 427 s to 5 s; dispatcher dialed about 3 of 50 configured calls per minute, rebuilt as one worker per campaign; a 918 MB campaign stream in Redis replaced by thin queue records">
+</p>
 
-[//]: # (<br>)
+### What I build
 
-[//]: # (<div id="header" align="left">)
+- **Event-driven services:** RabbitMQ / FastStream RPC, a distributed call dispatcher on Redis Streams
+  (consumer groups, rate limiting, retries, cross-instance dedup)
+- **LLM in production calls:** RASA ↔ LLM dual-flow routing, OpenAI and self-hosted vLLM, RAG knowledge bases used during calls
+- **Multi-tenant auth:** JWT with Redis, per-firm RBAC, built to banking-client security requirements
+- **Operations:** Docker, Kubernetes/Helm, GitHub Actions, Grafana/Loki
 
-[//]: # (<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHIyN241NWlzZmFoM3V3OXdjenoza3hlaW4xMGVxOTMxaTh5MGl1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNB5bIu3E5Z0EYEMP5/giphy.gif" width="400"/>&#41;)
+### How I work
 
-[//]: # (</div>)
+Claude Code and spec-driven development (OpenSpec, Gherkin) every day. I own the spec, the architecture and the review,
+and agents write most of the code. More than half of my commits in autumn 2026 were co-authored with Claude.
+
+`Python` `FastAPI` `SQLAlchemy` `Pydantic` `Celery` `TaskIQ` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Kubernetes`

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Measured results</title>
+  <desc id="desc">TTS batch 427 s to 5 s; dispatcher ran about 3 of 50 configured calls per minute, rebuilt as a worker per campaign; a 918 MB campaign stream in Redis replaced by thin queue records.</desc>
+
+  <rect width="1200" height="300" rx="20" fill="#0E1116"/>
+  <text x="56" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="3" fill="#7D8590">MEASURED IN PRODUCTION WORK</text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <g transform="translate(56 96)">
+      <rect width="344" height="168" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+      <text x="24" y="64" font-size="44" font-weight="700" fill="#F0B429">427s → 5s</text>
+      <text x="24" y="106" font-size="22" fill="#E6EDF3">TTS batch, audio cached</text>
+      <text x="24" y="138" font-size="20" fill="#7D8590">profiled, asyncio.gather</text>
+    </g>
+    <g transform="translate(428 96)">
+      <rect width="344" height="168" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+      <text x="24" y="64" font-size="44" font-weight="700" fill="#F0B429">~3 of 50</text>
+      <text x="24" y="106" font-size="22" fill="#E6EDF3">calls/min actually dialed</text>
+      <text x="24" y="138" font-size="20" fill="#7D8590">→ one worker per campaign</text>
+    </g>
+    <g transform="translate(800 96)">
+      <rect width="344" height="168" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+      <text x="24" y="64" font-size="44" font-weight="700" fill="#F0B429">918 MB</text>
+      <text x="24" y="106" font-size="22" fill="#E6EDF3">one campaign's Redis stream</text>
+      <text x="24" y="138" font-size="20" fill="#7D8590">→ thin queue records</text>
+    </g>
+  </g>
+</svg>
